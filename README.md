@@ -17,7 +17,7 @@
 ## Project Description <a name="ProjectDescription"></a>
 As human needs evolve, busineses need to grow and evolve. Marketing strategies whether for politic, business or healthcare needs to be specific and targetted. The needs of a young unmarried college graduate, a 45 year old family man, a single mom who is a lawyer are all different. Segmanting the population according to demographics makes you able to create specific selliing points which are more precise. 
 Population segmentation is a type of analysis that allows us to separate populations into subgroups so that we can better assess each group’s wants, needs, and health priorities. In this project we use US Census data from different counties.
-Using PCA and K means clustering we first use unsupervised machine learning to understand the different clusters in the group. Then use supervised learning
+Using PCA and K means clustering we first use unsupervised machine learning to understand the different clusters in the group. 
 
 ## File Description <a name="FileDescription"></a>
 There are three main folders:
@@ -43,7 +43,8 @@ The data science workflow has 4 main steps:
 ## Licensing, Authors, and Acknowledgements <a name="Licensing"></a>
 Thanks to Udacity for the exercise.
 
-
+## Conclusion
+By accessing the underlying models created within Amazon SageMaker, we were able to improve the explainability of our modelling and draw actionable conclusions. Using these techniques, we have been able to better understand the essential characteristics of different counties in the US and segment the population into groupings accordingly.
 
 
 
